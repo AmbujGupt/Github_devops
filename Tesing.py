@@ -1,0 +1,1 @@
+print("Hello dosto or btao sab badhiya")
