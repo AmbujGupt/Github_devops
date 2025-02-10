@@ -1,0 +1,30 @@
+   20  git status
+   21  git add Tesing.py
+   22  git status
+   23  git rm --cached Tesing.py to unstage
+   24  git status
+   25  git rm --cached Tesing.py
+   26  git status
+   27  git add Tesing.py
+   28  git commit -m "add this file"
+   29  git status
+   30  git commit -m "adding testing file"
+   31  git config --global user.name "ambujgupt"
+   32  git commit -m "adding testing file"
+   33  git status
+   34  git config --global user.email "ambujriet@gmail.com"
+   35  git commit -m "adding testing file"
+   36  git status
+   37  ls
+   38  ls -ltrha
+   39  rm Tesing.py
+   40  ls -ltrha
+   41  git status
+   42  get restore Testing.py
+   43  ls -ltrha
+   44  git restore Testing.py
+   45  git restore Tesing.py
+   46  ls -ltrha
+   47  vi Tesing.py
+   48  vi git_command.txt
+
